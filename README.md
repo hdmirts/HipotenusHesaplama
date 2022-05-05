@@ -1,3 +1,5 @@
+Dik Üçgen Hipotenüs Hesaplama
+
 ```java
 import java.util.Scanner;
 public class hiphes {
